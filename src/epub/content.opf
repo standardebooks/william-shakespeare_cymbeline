@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/cymbeline</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-10-11T15:37:38Z</dc:date>
+		<meta property="dcterms:modified">2022-10-11T15:37:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,19 +46,19 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A British princess marries a poor gentleman.</dc:description>
+		<dc:description id="description">A British princess marries a poor gentleman against her father the King’s wishes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;King Cymbeline had plans to arrange the marriage between his daughter Imogen and his son-in-law Cloten. Instead, she secretly marries Posthumus Leonatus, a poor gentleman. Before Cymbeline banishes Posthumus, Imogen is gifted a beautiful bracelet that she vows never to remove; Posthumus is given an expensive ring.&lt;/p&gt;
-			&lt;p&gt;While on his way to Rome, Posthumus meets Iachimo, who is heading to Britain. During their conversion, they make a bet. If Iachimo can seduce Imogen and provide proof of her adultery, Posthumus must hand over his ring.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Cymbeline&lt;/i&gt; is set in pre-Roman Britain during the 1st century AD. The play mainly follows the story of King Cunobeline, most likely sourced from &lt;i&gt;Holinshed’s Chronicles&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; also drew from other sources; &lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio"&gt;Boccaccio’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"&gt;Decameron&lt;/a&gt;&lt;/i&gt; tells of a similar wager involving hiding in a trunk.&lt;/p&gt;
+			&lt;p&gt;King Cymbeline had plans to arrange the marriage between his daughter Imogen and his son-in-law Cloten. Instead, she secretly marries Posthumus Leonatus, a poor gentleman. Before Cymbeline banishes Posthumus, Imogen is gifted a beautiful bracelet that she vows never to remove, while Posthumus is given an expensive ring.&lt;/p&gt;
+			&lt;p&gt;While on his way to Rome, Posthumus meets Iachimo, who is heading to Britain, and the two make a bet: If Iachimo can seduce Imogen and provide proof of her adultery, Posthumus must hand over his ring.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Cymbeline&lt;/i&gt; is set in pre-Roman Britain during the 1st century AD. The plot is inspired by the story of King Cunobeline, most likely sourced from &lt;i&gt;Holinshed’s Chronicles&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; also drew from other sources; &lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio"&gt;Boccaccio’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"&gt;Decameron&lt;/a&gt;&lt;/i&gt; tells of a similar wager involving hiding in a trunk.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/cymbeline/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">29667</meta>
+		<meta property="se:reading-ease.flesch">80.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Cymbeline</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_cymbeline</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -83,6 +83,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

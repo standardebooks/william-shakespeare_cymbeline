@@ -46,9 +46,11 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A British princess marries a poor gentleman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;King Cymbeline had plans to arrange the marriage between his daughter Imogen and his son-in-law Cloten. Instead, she secretly marries Posthumus Leonatus, a poor gentleman. Before Cymbeline banishes Posthumus, Imogen is gifted a beautiful bracelet that she vows never to remove; Posthumus is given an expensive ring.&lt;/p&gt;
+			&lt;p&gt;While on his way to Rome, Posthumus meets Iachimo, who is heading to Britain. During their conversion, they make a bet. If Iachimo can seduce Imogen and provide proof of her adultery, Posthumus must hand over his ring.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Cymbeline&lt;/i&gt; is set in pre-Roman Britain during the 1st century AD. The play mainly follows the story of King Cunobeline, most likely sourced from &lt;i&gt;Holinshed’s Chronicles&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; also drew from other sources; &lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio"&gt;Boccaccio’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"&gt;Decameron&lt;/a&gt;&lt;/i&gt; tells of a similar wager involving hiding in a trunk.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>

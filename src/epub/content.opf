@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/cymbeline</dc:identifier>
 		<dc:date>2022-10-11T15:37:38Z</dc:date>
@@ -48,13 +48,13 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A British princess marries a poor gentleman against her father the King’s wishes.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A British princess marries a poor gentleman against her father the King’s wishes.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;King Cymbeline had plans to arrange the marriage between his daughter Imogen and his son-in-law Cloten. Instead, she secretly marries Posthumus Leonatus, a poor gentleman. Before Cymbeline banishes Posthumus, Imogen is gifted a beautiful bracelet that she vows never to remove, while Posthumus is given an expensive ring.&lt;/p&gt;
 			&lt;p&gt;While on his way to Rome, Posthumus meets Iachimo, who is heading to Britain, and the two make a bet: If Iachimo can seduce Imogen and provide proof of her adultery, Posthumus must hand over his ring.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Cymbeline&lt;/i&gt; is set in pre-Roman Britain during the 1st century AD. The plot is inspired by the story of King Cunobeline, most likely sourced from &lt;i&gt;Holinshed’s Chronicles&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; also drew from other sources; &lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio"&gt;Boccaccio’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"&gt;Decameron&lt;/a&gt;&lt;/i&gt; tells of a similar wager involving hiding in a trunk.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/cymbeline/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>

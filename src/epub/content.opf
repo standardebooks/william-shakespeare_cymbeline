@@ -48,7 +48,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A British princess marries a poor gentleman against her father the King’s wishes.</dc:abstract>
+		<meta property="schema:abstract">A British princess marries a poor gentleman against her father the King’s wishes.</meta>
 		<dc:description>
 			&lt;p&gt;King Cymbeline had plans to arrange the marriage between his daughter Imogen and his son-in-law Cloten. Instead, she secretly marries Posthumus Leonatus, a poor gentleman. Before Cymbeline banishes Posthumus, Imogen is gifted a beautiful bracelet that she vows never to remove, while Posthumus is given an expensive ring.&lt;/p&gt;
 			&lt;p&gt;While on his way to Rome, Posthumus meets Iachimo, who is heading to Britain, and the two make a bet: If Iachimo can seduce Imogen and provide proof of her adultery, Posthumus must hand over his ring.&lt;/p&gt;
